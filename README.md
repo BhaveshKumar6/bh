@@ -1,4 +1,4 @@
-
-ghrthtf
-I am editing the README file . adding some more details about the project description.
+hacktoberfest2020
+hacktoberfest-accepted
+hactoberfest
 
